@@ -6,6 +6,8 @@ The advanced version of the classic game Rock Paper Scissors
 
 Created with pure HTML, CSS and JavaScript
 
+Can only be played against the cpu
+
 ---
 
 ## Rules
