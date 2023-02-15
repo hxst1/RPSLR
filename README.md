@@ -2,11 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71164&width=435&lines=by+Edu+Ruiz)](https://git.io/typing-svg)
 
+---
+
+## Description
+
 The advanced version of the classic game Rock Paper Scissors
 
 Created with pure HTML, CSS and JavaScript
 
 Can only be played against the cpu
+
+---
+
+## How to play
+
+- 1st clone the repository
+
+  > git clone https://github.com/hxst1/RPSLR.git
+
+- 2nd run the index.html and start playing
 
 ---
 
